@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Open in PyCharm",
+            "type": "shell",
+            "command": "D:\\Pycharm Code editor Software\\Pycharm Code editor code installed here\\PyCharm Community Edition 2024.3.3\\bin\\pycharm64.exe",
+            "args": ["."],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
