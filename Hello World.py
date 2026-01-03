@@ -1,2 +1,1 @@
-a = "*" * 10
-print(a)
+print("Hello World program testing in Github")
